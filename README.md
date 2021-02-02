@@ -7,5 +7,6 @@
 ## Прошедшие семинары
 
 Date | Speaker | Title | Video
----|---|---|---|---
+---|---|---|---
+28.01.21 | Жаров Никита | FCOS & EfficientDet | [youtube](https://youtu.be/y8RWgDVi2FE)
 15.01.21 | Торопцев Никита | M2Det | [youtube](https://youtu.be/ZRFLBldLfp4)
