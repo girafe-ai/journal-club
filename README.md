@@ -12,6 +12,7 @@
 
 No | Date | Speaker | Title | Video | Comment
 --- | --- | --- | --- | --- | ---
+5 | 18.03.21 | Заур Датхужев | Advanced Quantization Methods | [youtube](https://youtu.be/p5MU8e8ae9Y)
 4 | 11.03.21 | Антон Наумов | Invariant Information Clustering | [youtube](https://youtu.be/48oIHVpsxF4)
 3 | 04.02.21 | Владислав Гончаренко | How to setup your Data Science project in 2021 | [youtube](https://youtu.be/jLIAiDMyseQ)
 2 | 28.01.21 | Никита Жаров | FCOS & EfficientDet | [youtube](https://youtu.be/y8RWgDVi2FE)
