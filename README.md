@@ -6,15 +6,16 @@
 
 Все записи выступлений [в одном плейлисте](https://youtube.com/playlist?list=PLJR10EXrBaAu0yvsFbdXkMyFDuwN0YS97).
 
-Слайды выступлений расположены в папке `slides`.
+Слайды выступлений расположены в папке [`slides`](slides).
 
 ## Past seminars
 
-No | Date | Speaker | Title | Video | Comment
+No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
-6 | 11.08.21 | Дмитрий Коршунов | Monocular depth estimation | [youtube](https://youtu.be/-yDiYG2NUTE)
-5 | 18.03.21 | Заур Датхужев | Advanced Quantization Methods | [youtube](https://youtu.be/p5MU8e8ae9Y)
-4 | 11.03.21 | Антон Наумов | Invariant Information Clustering | [youtube](https://youtu.be/48oIHVpsxF4)
-3 | 04.02.21 | Владислав Гончаренко | How to setup your Data Science project in 2021 | [youtube](https://youtu.be/jLIAiDMyseQ)
-2 | 28.01.21 | Никита Жаров | FCOS & EfficientDet | [youtube](https://youtu.be/y8RWgDVi2FE)
-1 | 15.01.21 | Никита Торопцев | M2Det | [youtube](https://youtu.be/ZRFLBldLfp4)
+7 | 23.11.21 | Иван Лыжин | [Cat]Boosting in depth | [youtube](https://youtu.be/s4GWmfB9VTA) | [slides](slides/07%20CatBoosting.pdf)
+6 | 11.08.21 | Дмитрий Коршунов | Monocular depth estimation | [youtube](https://youtu.be/-yDiYG2NUTE) | [slides](slides/06%20Monodepth%20overview.pdf)
+5 | 18.03.21 | Заур Датхужев | Advanced Quantization Methods | [youtube](https://youtu.be/p5MU8e8ae9Y) | [slides](slides/05%20Advanced%20Quantization%20Methods.pdf)
+4 | 11.03.21 | Антон Наумов | Invariant Information Clustering | [youtube](https://youtu.be/48oIHVpsxF4) | [slides](slides/04%20Invariant%20Information%20Clustering.pdf)
+3 | 04.02.21 | Владислав Гончаренко | How to setup your Data Science project in 2021 | [youtube](https://youtu.be/jLIAiDMyseQ) | [slides](slides/03%20How%20to%20setup%20your%20Data%20Science%20project%20in%202021.pdf)
+2 | 28.01.21 | Никита Жаров | FCOS & EfficientDet | [youtube](https://youtu.be/y8RWgDVi2FE) | [slides](slides/02%20FCOS%20%26%20EfficientDet.pdf)
+1 | 15.01.21 | Никита Торопцев | M2Det | [youtube](https://youtu.be/ZRFLBldLfp4) | [slides](slides/01%20M2Det.pdf)
