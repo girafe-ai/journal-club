@@ -12,7 +12,8 @@
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
-7 | 23.11.21 | Иван Лыжин | [Cat]Boosting in depth | [youtube](https://youtu.be/s4GWmfB9VTA) | [slides](slides/07%20CatBoosting.pdf)
+8 | 23.11.21 | Иван Лыжин | [Cat]Boosting in depth | [youtube](https://youtu.be/s4GWmfB9VTA) | [slides](slides/08%20CatBoosting.pdf)
+7 | 17.08.21 | Илья Макаров, Алексей Карпов | Depth estimation settings and applications | [youtube](https://youtu.be/SSyxRx5HfK4) | [one](slides/07%201%20Depth%20Map%20Interpolation%20Makarov.pdf), [two](slides/07%202%20Depth%20Map%20Reconstruction.pdf), [three](slides/07%203%20Self-supervised%20depth%20estimation%20Karpov.pdf)
 6 | 11.08.21 | Дмитрий Коршунов | Monocular depth estimation | [youtube](https://youtu.be/-yDiYG2NUTE) | [slides](slides/06%20Monodepth%20overview.pdf)
 5 | 18.03.21 | Заур Датхужев | Advanced Quantization Methods | [youtube](https://youtu.be/p5MU8e8ae9Y) | [slides](slides/05%20Advanced%20Quantization%20Methods.pdf)
 4 | 11.03.21 | Антон Наумов | Invariant Information Clustering | [youtube](https://youtu.be/48oIHVpsxF4) | [slides](slides/04%20Invariant%20Information%20Clustering.pdf)
