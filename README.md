@@ -12,7 +12,8 @@
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
-9 | 06.05.21 | Kerven Durdymyradov | Riemannian geometry for time series analysis | [youtube](https://youtu.be/3w3_dV8Msbs) | [slides](slides/09%20PyRiemann.pdf)
+10 | 19.05.22 | Линар Абдразаков, Игорь Чурин | IGLU Minecraft | [youtube](https://youtu.be/TpWSDbgMRkI) | [slides](slides/10%20MIPT%20NeuroAI%20IGLU%20Minecraft%20Silent%20Builder%20Solution.pdf)
+9 | 06.05.22 | Kerven Durdymyradov | Riemannian geometry for time series analysis | [youtube](https://youtu.be/3w3_dV8Msbs) | [slides](slides/09%20PyRiemann.pdf)
 8 | 23.11.21 | Иван Лыжин | [Cat]Boosting in depth | [youtube](https://youtu.be/s4GWmfB9VTA) | [slides](slides/08%20CatBoosting.pdf)
 7 | 17.08.21 | Илья Макаров, Алексей Карпов | Depth estimation settings and applications | [youtube](https://youtu.be/SSyxRx5HfK4) | [one](slides/07%201%20Depth%20Map%20Interpolation%20Makarov.pdf), [two](slides/07%202%20Depth%20Map%20Reconstruction.pdf), [three](slides/07%203%20Self-supervised%20depth%20estimation%20Karpov.pdf)
 6 | 11.08.21 | Дмитрий Коршунов | Monocular depth estimation | [youtube](https://youtu.be/-yDiYG2NUTE) | [slides](slides/06%20Monodepth%20overview.pdf)
