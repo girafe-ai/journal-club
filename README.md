@@ -6,12 +6,13 @@
 
 Все записи выступлений [в одном плейлисте](https://youtube.com/playlist?list=PLJR10EXrBaAu0yvsFbdXkMyFDuwN0YS97).
 
-Слайды выступлений расположены в папке [`slides`](slides).
+Слайды выступлений расположены [в папке slides](slides).
 
 ## Past seminars
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
+11 | 30.06.22 | Дмитрий Коршунов | Monocular depth estimation. Part 2 | [youtube](https://youtu.be/kvt_WJcW6M0) | [slides](slides/11%20Monodepth%20overview.%20Part%202.pdf)
 10 | 19.05.22 | Линар Абдразаков, Игорь Чурин | IGLU Minecraft | [youtube](https://youtu.be/TpWSDbgMRkI) | [slides](slides/10%20MIPT%20NeuroAI%20IGLU%20Minecraft%20Silent%20Builder%20Solution.pdf)
 9 | 06.05.22 | Kerven Durdymyradov | Riemannian geometry for time series analysis | [youtube](https://youtu.be/3w3_dV8Msbs) | [slides](slides/09%20PyRiemann.pdf)
 8 | 23.11.21 | Иван Лыжин | [Cat]Boosting in depth | [youtube](https://youtu.be/s4GWmfB9VTA) | [slides](slides/08%20CatBoosting.pdf)
