@@ -12,6 +12,7 @@
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
+13 | 25.10.22 | Кирам Аль-Харба | VAE->VQ-VAE->D-VAE->DALL-E 1: ideas and methods progression | [youtube](https://www.youtube.com/watch?v=1eK5UQ-Q4iw) | [slides](slides/13%20VAE%20to%20DALL-E.pdf)
 12 | 04.08.22 | Роман Коркин | Localization in complex environments | [youtube](https://youtu.be/gv1rPBCOyxE) | [slides](slides/12%20Localization%20in%20complex%20environments.pdf)
 11 | 30.07.22 | Дмитрий Коршунов | Monocular depth estimation. Part 2 | [youtube](https://youtu.be/kvt_WJcW6M0) | [slides](slides/11%20Monodepth%20overview.%20Part%202.pdf)
 10 | 19.05.22 | Линар Абдразаков, Игорь Чурин | IGLU Minecraft | [youtube](https://youtu.be/TpWSDbgMRkI) | [slides](slides/10%20MIPT%20NeuroAI%20IGLU%20Minecraft%20Silent%20Builder%20Solution.pdf)
