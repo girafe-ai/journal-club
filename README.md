@@ -13,9 +13,9 @@
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
 19 | 08.06.23 | Татьяна Шаврина | AI Alignment Problems in Large Language models | [youtube](https://www.youtube.com/watch?v=CV-6F6Q9nos) | [slides](slides/19%20LLM%20alignment.pdf)
-18 | 04.06.23 | Эльдаров Ильяс | Image inpainting | [youtube](https://youtu.be/FN5Ev2eZVIg) | [slides](slides/18%20Visual%20place%20recognition%20overview%20and%20application%20to%20postcards%20search.pdf)
-17 | 27.03.23 | Анастасий Беляев, Александр Котов | Image inpainting | [youtube](https://youtu.be/Dv06-_C8H4k) | [slides](slides/17%20Simulation%20of%20dynamic%20obstacles%20on%20the%20path%20of%20an%20automated%20car.pptx.pdf)
-16 | 21.03.23 | Алина Голкина | Image inpainting | [youtube](https://youtu.be/8qk6v1RAkc0) | [slides](slides/16%20Sound%20Anomaly%20Detection.pdf)
+18 | 04.06.23 | Эльдаров Ильяс | Visual place recognition overview and application to postcards search | [youtube](https://youtu.be/FN5Ev2eZVIg) | [slides](slides/18%20Visual%20place%20recognition%20overview%20and%20application%20to%20postcards%20search.pdf)
+17 | 27.03.23 | Анастасий Беляев, Александр Котов | Simulation of dynamic obstacles on the path of an automated car | [youtube](https://youtu.be/Dv06-_C8H4k) | [slides](slides/17%20Simulation%20of%20dynamic%20obstacles%20on%20the%20path%20of%20an%20automated%20car.pptx.pdf)
+16 | 21.03.23 | Алина Голкина | Sound Anomaly Detection | [youtube](https://youtu.be/8qk6v1RAkc0) | [slides](slides/16%20Sound%20Anomaly%20Detection.pdf)
 15 | 14.03.23 | Булат Шелхонов | Image inpainting | [youtube](https://youtu.be/C2CbtH4JhWc) | [slides](slides/15%20Inpainting.pdf)
 14 | 19.01.23 | Виктор Косиков | Background subtractors overview | [youtube](https://www.youtube.com/watch?v=YTCrBnzWTjU&list=PLJR10EXrBaAu0yvsFbdXkMyFDuwN0YS97&index=3) | [slides](slides/14%20Background%20subtractors.pdf)
 13 | 25.10.22 | Кирам Аль-Харба | VAE->VQ-VAE->D-VAE->DALL-E 1: ideas and methods progression | [youtube](https://www.youtube.com/watch?v=1eK5UQ-Q4iw) | [slides](slides/13%20VAE%20to%20DALL-E.pdf)
