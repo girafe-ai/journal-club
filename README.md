@@ -12,8 +12,7 @@
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
-20 | 13.07.23 | Пётр Шульженко | Overview of Deep Learning-based segmentation architectures
- | [youtube](https://youtu.be/MHTDK3LXLfM) | [slides](slides/20%20Overview%20of%20Deep%20Learning-based%20segmentation%20architectures.pdf)
+20 | 13.07.23 | Пётр Шульженко | Overview of Deep Learning-based segmentation architectures | [youtube](https://youtu.be/MHTDK3LXLfM) | [slides](slides/20%20Overview%20of%20Deep%20Learning-based%20segmentation%20architectures.pdf)
 19 | 08.06.23 | Татьяна Шаврина | AI Alignment Problems in Large Language models | [youtube](https://www.youtube.com/watch?v=CV-6F6Q9nos) | [slides](slides/19%20LLM%20alignment.pdf)
 18 | 04.06.23 | Эльдаров Ильяс | Visual place recognition overview and application to postcards search | [youtube](https://youtu.be/FN5Ev2eZVIg) | [slides](slides/18%20Visual%20place%20recognition%20overview%20and%20application%20to%20postcards%20search.pdf)
 17 | 27.03.23 | Анастасий Беляев, Александр Котов | Simulation of dynamic obstacles on the path of an automated car | [youtube](https://youtu.be/Dv06-_C8H4k) | [slides](slides/17%20Simulation%20of%20dynamic%20obstacles%20on%20the%20path%20of%20an%20automated%20car.pptx.pdf)
