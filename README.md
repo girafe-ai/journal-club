@@ -12,6 +12,7 @@
 
 No | Date | Speaker | Title | Video | Materials
 --- | --- | --- | --- | --- | ---
+21 | 21.07.23 | Артём Угловский | LDPC error floor estimation using Importance Sampling | [youtube](https://youtu.be/asKJerCpu3k) | [slides](slides/21%20LDPC%20error%20floor%20estimation%20using%20Importance%20Sampling.pdf)
 20 | 13.07.23 | Пётр Шульженко | Overview of Deep Learning-based segmentation architectures | [youtube](https://youtu.be/MHTDK3LXLfM) | [slides](slides/20%20Overview%20of%20Deep%20Learning-based%20segmentation%20architectures.pdf)
 19 | 08.06.23 | Татьяна Шаврина | AI Alignment Problems in Large Language models | [youtube](https://www.youtube.com/watch?v=CV-6F6Q9nos) | [slides](slides/19%20LLM%20alignment.pdf)
 18 | 04.06.23 | Эльдаров Ильяс | Visual place recognition overview and application to postcards search | [youtube](https://youtu.be/FN5Ev2eZVIg) | [slides](slides/18%20Visual%20place%20recognition%20overview%20and%20application%20to%20postcards%20search.pdf)
